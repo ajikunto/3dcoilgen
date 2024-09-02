@@ -12,7 +12,7 @@ import ezdxf
 class HelixApp(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("3D Coil Spring Generator V1.0 - R&D PT. APM Armada Suspension")
+        self.title("3D Coil Spring Generator V1.0 - R&D")
 
         # Mendapatkan ukuran layar
         screen_width = self.winfo_screenwidth()
