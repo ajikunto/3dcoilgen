@@ -7,3 +7,5 @@
 4. Export 2D data into *.dxf (CAD file)
 5. Interactive graph (Pan, Zooming, Rotate) for flexible views
 6. Copy Table data into Clipboard
+
+![c](https://github.com/user-attachments/assets/2b5de9eb-b82a-4fad-99b8-c3ab2b2d1175)
